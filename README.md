@@ -9,11 +9,19 @@
 
 **Votre compagnon multi-comptes pour Dofus sur Windows.**
 
-[Télécharger la dernière bêta](../../releases/latest) · [Signaler un problème](../../issues/new)
+[Télécharger la dernière bêta](../../releases/latest) · [Rejoindre le Discord](https://discord.gg/5HmKF5r7MS) · [Signaler un problème](../../issues/new)
 
 BEE MULTI rassemble dans une seule interface les outils essentiels aux joueurs multi-comptes. Lancez vos sessions, organisez vos fenêtres et adaptez votre espace de jeu à votre rythme, sans multiplier les manipulations.
 
 Cette première version publique est proposée en bêta afin de recueillir les retours des joueurs et de faire évoluer l’application avec sa communauté.
+
+## Rejoignez la communauté
+
+Besoin d’aide, envie de partager une suggestion ou de suivre les prochaines nouveautés ? Rejoignez le serveur officiel BEE MULTI :
+
+<p align="center">
+  <a href="https://discord.gg/5HmKF5r7MS"><strong>Rejoindre le Discord BEE MULTI</strong></a>
+</p>
 
 ## Découvrez BEE MULTI
 
