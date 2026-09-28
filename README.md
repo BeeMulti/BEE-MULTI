@@ -11,7 +11,7 @@
 
 [Télécharger la dernière bêta](../../releases/latest) · [Signaler un problème](../../issues/new)
 
-BEE MULTI rassemble les outils utiles aux joueurs multi-comptes dans une interface simple, rapide et personnalisable. Cette première version est proposée en bêta afin de recueillir les retours des joueurs.
+BEE MULTI rassemble les outils utiles aux joueurs multi-comptes dans une interface simple, rapide. Cette première version est proposée en bêta afin de recueillir les retours des joueurs.
 
 ## Fonctionnalités
 
