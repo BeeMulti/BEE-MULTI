@@ -54,7 +54,7 @@ Cycle Rapide permet de passer instantanément d’une fenêtre Dofus à l’autr
 Enregistrez vos proxys puis attribuez simplement une connexion directe ou un proxy distinct à chaque compte. Le statut reste visible en permanence afin de garder une vue nette sur la configuration de votre équipe.
 
 <p align="center">
-  <img src="assets/network-proxies.png" width="100%" alt="Gestion et attribution des proxys dans BEE MULTI">
+  <img src="assets/network-proxies-v2.png" width="100%" alt="Gestion et attribution des proxys dans BEE MULTI">
 </p>
 
 ### Votre launcher, votre style
