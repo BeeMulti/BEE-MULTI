@@ -37,6 +37,24 @@ BEE MULTI rassemble les outils utiles aux joueurs multi-comptes dans une interfa
 
 Windows SmartScreen peut afficher un avertissement pendant la phase bêta, car l’application ne possède pas encore de certificat commercial de signature. Utilisez uniquement les fichiers publiés dans les Releases officielles de ce dépôt.
 
+## Autoriser l’installation avec Windows SmartScreen
+
+La bêta n’étant pas encore signée avec un certificat commercial, Windows peut empêcher son premier démarrage et afficher **« Windows a protégé votre ordinateur »**. Cet avertissement est attendu pour cette version.
+
+Pour lancer BEE MULTI :
+
+1. Vérifiez que l’installeur provient bien de la page **Releases** officielle de `BeeMulti/BEE-MULTI`.
+2. Dans la fenêtre SmartScreen, cliquez sur **Informations complémentaires** si ce lien est affiché.
+3. Vérifiez que le nom de l’application commence par `BEE-MULTI-Setup`.
+4. Cliquez sur **Exécuter quand même**.
+5. L’installeur BEE MULTI s’ouvrira ensuite normalement.
+
+<p align="center">
+  <img src="assets/windows-smartscreen.png" width="540" alt="Bouton Exécuter quand même dans Windows SmartScreen">
+</p>
+
+> N’autorisez jamais un fichier BEE MULTI reçu par message privé ou téléchargé depuis un autre site. Utilisez exclusivement les Releases officielles de ce dépôt.
+
 ## Prérequis
 
 - Windows 10 ou Windows 11 en 64 bits ;
