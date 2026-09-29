@@ -5,11 +5,11 @@
   <img src="assets/wordmark.png" width="520" alt="BEE MULTI">
 </p>
 
-# BEE MULTI
+# BEE MULTI - Code d'accès sur <a href="https://discord.gg/5HmKF5r7MS"><strong>le Discord BEE MULTI</strong></a>
 
 **Votre compagnon multi-comptes pour Dofus sur Windows.**
 
-[Télécharger la dernière bêta](../../releases/latest) · [Rejoindre le Discord](https://discord.gg/5HmKF5r7MS) · [Signaler un problème](../../issues/new)
+[Télécharger la première bêta](../../releases/tag/v0.1.0-beta.1) · [Rejoindre le Discord](https://discord.gg/5HmKF5r7MS) · [Signaler un problème](../../issues/new)
 
 BEE MULTI rassemble dans une seule interface les outils essentiels aux joueurs multi-comptes. Lancez vos sessions, organisez vos fenêtres et adaptez votre espace de jeu à votre rythme, sans multiplier les manipulations.
 
@@ -76,13 +76,17 @@ Personnalisez BEE MULTI avec un thème clair ou sombre et plusieurs couleurs d�
 - thèmes sombre et clair avec couleurs d’accent ;
 - journal d’activité en direct pour suivre le launcher ;
 - fenêtre entièrement intégrée avec contrôles personnalisés.
+- accès à la bêta protégé par un code communiqué sur le Discord officiel ;
+- téléchargement automatique des nouvelles versions au démarrage.
 
 ## Installation
 
-1. Ouvrez la page des [Releases officielles](../../releases/latest).
+1. Ouvrez la page de [BEE MULTI 0.1 Beta 1](../../releases/tag/v0.1.0-beta.1).
 2. Téléchargez la dernière version de `BEE-MULTI-Setup.exe`.
 3. Lancez l’installeur et suivez les étapes affichées.
 4. Au premier démarrage, vérifiez le chemin de Dofus dans **Paramètres > Général**.
+
+Au lancement, entrez le code actuellement publié sur le Discord officiel. Les prochaines versions pourront ensuite être récupérées automatiquement par le launcher.
 
 ## Autoriser l’installation avec Windows SmartScreen
 
