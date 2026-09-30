@@ -133,6 +133,3 @@ BEE MULTI est un projet indépendant et non officiel. Il n’est ni affilié, ni
 
 L’utilisateur reste responsable du respect des conditions d’utilisation du jeu et des services associés.
 
-## Licence
-
-Copyright © 2026 BEE MULTI. Tous droits réservés. La redistribution, la modification ou la rétro-ingénierie du logiciel ne sont pas autorisées sans permission écrite.
