@@ -9,7 +9,7 @@
 
 **Votre compagnon multi-comptes pour Dofus sur Windows.**
 
-[Télécharger la première bêta](../../releases/tag/v0.1.0-beta.1) · [Rejoindre le Discord](https://discord.gg/5HmKF5r7MS) · [Signaler un problème](../../issues/new)
+[Télécharger la dernière bêta](../../releases/tag/v0.1.0-beta.2) · [Rejoindre le Discord](https://discord.gg/5HmKF5r7MS) · [Signaler un problème](../../issues/new)
 
 BEE MULTI rassemble dans une seule interface les outils essentiels aux joueurs multi-comptes. Lancez vos sessions, organisez vos fenêtres et adaptez votre espace de jeu à votre rythme, sans multiplier les manipulations.
 
@@ -73,6 +73,9 @@ Personnalisez BEE MULTI avec un thème clair ou sombre et plusieurs couleurs d�
 - Cycle Rapide avec raccourcis clavier configurables ;
 - Multi-clic et Miroir avec délais ajustables ;
 - gestion et attribution des proxys par compte ;
+- création de proxys locaux depuis une connexion Wi-Fi, Ethernet ou un partage mobile ;
+- Mode Streamer pour masquer les informations personnelles pendant un partage d’écran ;
+- protection configurable des raccourcis clavier ;
 - thèmes sombre et clair avec couleurs d’accent ;
 - journal d’activité en direct pour suivre le launcher ;
 - fenêtre entièrement intégrée avec contrôles personnalisés.
@@ -81,7 +84,7 @@ Personnalisez BEE MULTI avec un thème clair ou sombre et plusieurs couleurs d�
 
 ## Installation
 
-1. Ouvrez la page de [BEE MULTI 0.1 Beta 1](../../releases/tag/v0.1.0-beta.1).
+1. Ouvrez la page de [BEE MULTI 0.1 Beta 2](../../releases/tag/v0.1.0-beta.2).
 2. Téléchargez la dernière version de `BEE-MULTI-Setup.exe`.
 3. Lancez l’installeur et suivez les étapes affichées.
 4. Au premier démarrage, vérifiez le chemin de Dofus dans **Paramètres > Général**.
